@@ -6,7 +6,7 @@ public class Main {
         int sodamilkAmound = 10;
 
         int coppuciniMilkRequred = 60;
-        int coppucinoCoffeRequred = 15;
+        int coppucinoCoffeRequred = 12;
 
 
         if (CoffeAmount >= coppucinoCoffeRequred && (cocomilkAmound || sodamilkAmound >= coppuciniMilkRequred) {
